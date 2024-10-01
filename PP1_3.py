@@ -1,9 +1,9 @@
 def q1():
-    print ( " * * * * * \n * * * * \n * * * * * *\n * * * * \n * * * * * *\n * * * * *\n" )
+    print( " * * * * * * \n* * * * * *\n * * * * * *\n* * * * * * \n * * * * * *\n* * * * * *\n" )
 
-    print ("* * * * \n       \n       \n       \n * * * *\n")
+    print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
 
-    print ("* * * * * \n *       *\n       \n   *   *\n     *\n     *")
+    print("* * * * * * \n *       *\n  *     *\n   *   *\n    * *\n     *")
 
 def q2():
     print("Hello", end = "")
@@ -14,6 +14,6 @@ def q3():
     print('"Board"')
     print('"Man Overboard"')
 
-# q1()
-# q2()
-# q3()
+q1()
+q2()
+q3()

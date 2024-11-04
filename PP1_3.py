@@ -14,6 +14,6 @@ def q3():
     print('"Board"')
     print('"Man Overboard"')
 
-q1()
-q2()
-q3()
+# q1()
+# q2()
+# q3()
